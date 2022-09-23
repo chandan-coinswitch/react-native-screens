@@ -44,7 +44,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chandan-coinswitch/react-native-screens.git"
+    "url": "git+https://github.com/software-mansion/react-native-screens.git"
   },
   "author": {
     "email": "krzys.magiera@gmail.com",
